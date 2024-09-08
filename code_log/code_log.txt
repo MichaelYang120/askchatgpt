@@ -1,0 +1,52 @@
+2024-09-08 00:12:32.731045-05:00
+You: asdf
+2024-09-08 00:12:33.403361-05:00
+ChatGPT: Hello! How can I assist you today with coding or any technical questions you may have?
+2024-09-08 00:12:44.318212-05:00
+You: asdf
+2024-09-08 00:12:44.978479-05:00
+ChatGPT: Hello! How can I assist you today with coding or any other questions you might have?
+2024-09-08 00:12:53.604565-05:00
+You: asdf
+2024-09-08 00:12:54.172658-05:00
+ChatGPT: Hello! How can I assist you today with coding or any other questions you have?
+2024-09-08 00:13:01.886325-05:00
+You: [A[A
+2024-09-08 00:13:02.422608-05:00
+ChatGPT: How can I help you with coding today?
+2024-09-08 00:15:18.398305-05:00
+You: what is my name
+2024-09-08 00:15:19.093311-05:00
+ChatGPT: I'm sorry, but I am not able to access personal information such as your name. How can I assist you today? 
+2024-09-08 00:19:41.375808-05:00
+You: 
+2024-09-08 00:19:41.863026-05:00
+ChatGPT: How can I help you with coding today?
+2024-09-08 00:19:49.630948-05:00
+You: [A[B
+2024-09-08 00:19:50.117367-05:00
+ChatGPT: How can I help you with coding questions today?
+2024-09-08 00:23:12.891865-05:00
+You: what is my name?
+2024-09-08 00:23:13.614002-05:00
+ChatGPT: I'm sorry, I don't have access to your personal information. How can I assist you today?
+2024-09-08 00:23:38.342413-05:00
+You: give me an insperational quote
+2024-09-08 00:23:39.159937-05:00
+ChatGPT: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
+2024-09-08 00:23:53.871665-05:00
+You: give me an inspirational quote
+2024-09-08 00:23:54.527728-05:00
+ChatGPT: "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+2024-09-08 00:24:17.096231-05:00
+You: give me a sad quote
+2024-09-08 00:24:17.693594-05:00
+ChatGPT: "Sadness flies away on the wings of time." - Jean de La Fontaine
+2024-09-08 10:17:35.155657-05:00
+You: asdf
+2024-09-08 10:17:35.787507-05:00
+ChatGPT: Hello! How can I assist you today?
+2024-09-08 10:17:36.923651-05:00
+You: fdsa
+2024-09-08 10:17:37.461722-05:00
+ChatGPT: Hello! How can I assist you today?
