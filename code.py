@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 from chatgpt import *
 import datetime
 import pytz
+import readline
 load_dotenv()
 
 def main():
