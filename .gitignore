@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-./code_log/
+./code_log/code_log.txt
 
 # C extensions
 *.so
